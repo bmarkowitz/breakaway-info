@@ -2,7 +2,7 @@
 
 *Last updated: August 26, 2021*
 
-Below is a list of issues and bugs in Breakaway that we are currently aware of. This list isn't meant to be exhaustive, so if you think you're seeing and issue and you're not sure if it matches something on this list, report it anyway. 
+Below is a list of issues and bugs in Breakaway that we are currently aware of. This list isn't meant to be exhaustive, so if you think you're seeing an issue and you're not sure if it matches something on this list, report it anyway. 
 
 #### Breakaway-related (we can probably fix these)
 1. When switching back to Breakaway after some time, some team logos may show as the NHL logo or an incorrect logo (color or team).
