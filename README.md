@@ -17,4 +17,4 @@ It's possible an the issue you're encountering has already been reported by some
 
 ## Known issues
 
-There are some bugs that we already know to exist, or some that are out of our control due to the data coming from the NHL being incomplete. Click here to see a list of known issues, and whether or not it's believed to be beyond our control or not.
+There are some bugs that we already know to exist, or some that are out of our control due to the data coming from the NHL being incomplete. Click [here](known-issues.md) to see a list of known issues, and whether or not it's believed to be beyond our control or not.
