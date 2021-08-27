@@ -6,4 +6,4 @@ Because Breakaway contacts third-party APIs created and developed by the Nationa
 
 This also means you're subject to the National Hockey League's privacy policy, which can be found [here](https://www.nhl.com/info/privacy-policy), as well as that of any other services and websites you encounter within the app.
 
-_**Note: This app is not endorsed by or affiliated with the National Hockey League. Any trademarks used in the app are done so under "fair use" with the sole purpose of identifying the respective entities, and remain the property of their respective owners.**_
+_**Note: Breakaway is not endorsed by or affiliated with the National Hockey League. Any trademarks used in the app are done so under "fair use" with the sole purpose of identifying the respective entities, and remain the property of their respective owners.**_
