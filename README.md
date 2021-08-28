@@ -13,7 +13,7 @@ To report a bug through here, you'll need a GitHub account. You can create one [
 
 If possible, include steps to reproduce the issue (it's more difficult to fix if we can't reproduce it ourselves, but sometimes this isn't always possible), and any other information that you think might be helpful, like a video, GIF, or screenshot. The more information, the better.
 
-It's possible an the issue you're encountering has already been reported by someone else or is already a known issue, so take a look to see if there's anything similar before submitting the issue. 
+It's possible that the issue you're encountering has already been reported by someone else or is already a known issue, so take a look to see if there's anything similar before submitting the issue. 
 
 If you prefer not to create a GitHub account, you can send us an email by clicking [here](mailto:breakaway.app@outlook.com).
 
