@@ -1,6 +1,6 @@
 # Known issues
 
-*Last updated: August 26, 2021*
+*Last updated: August 28, 2021*
 
 Below is a list of issues and bugs in Breakaway that we are currently aware of. This list isn't meant to be exhaustive, so if you think you're seeing an issue and you're not sure if it matches something on this list, report it anyway. 
 
@@ -10,6 +10,7 @@ Below is a list of issues and bugs in Breakaway that we are currently aware of. 
 3. When visiting the page for a team that is inactive and is related to an active team (Hartford Whalers, Atlanta Thrashers -> Carolina Hurricanes, Winnipeg Jets), the current team's stats and logos appear.
 4. The standings are currently only showing the 2020-21 season
 5. When viewing a team's preseason schedule, if there is a day that should have two games (a double-header), only the first game will be listed.
+6. The name of a team or player may be cut off in the Favorites section of the Discover tab.
 
 #### NHL API-related (likely out of our control)
 1. Some games, typically older ones, may be missing goals, penalties, shots, or other stats.
