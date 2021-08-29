@@ -1,6 +1,6 @@
 # Known issues
 
-*Last updated: August 28, 2021*
+*Last updated: August 29, 2021*
 
 Below is a list of issues and bugs in Breakaway that we are currently aware of. This list isn't meant to be exhaustive, so if you think you're seeing an issue and you're not sure if it matches something on this list, report it anyway. 
 
@@ -11,6 +11,7 @@ Below is a list of issues and bugs in Breakaway that we are currently aware of. 
 4. The standings are currently only showing the 2020-21 season
 5. When viewing a team's preseason schedule, if there is a day that should have two games (a double-header), only the first game will be listed.
 6. The name of a team or player may be cut off in the Favorites section of the Discover tab.
+7. If you are using a different text size other than the default in iOS Settings -> Display -> Text Size, many parts of the app may appear broken or misaligned.
 
 #### NHL API-related (likely out of our control)
 1. Some games, typically older ones, may be missing goals, penalties, shots, or other stats.
