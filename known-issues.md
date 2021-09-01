@@ -16,6 +16,7 @@ Below is a list of issues and bugs in Breakaway that we are currently aware of. 
 9. If you have no recent searches, tapping the message that tells you there's no recent searches will crash the app. (Same with the "No Favorites" message) **
 10. A skater's time on ice stat may be formatted incorrectly in the stats table at Stats -> Skaters.
 11. Stats in the Stats tab -> Skaters/Goalies/Teams are inaccurate. (Credit: [/u/Swimming_Bird on Reddit](https://www.reddit.com/user/Swimming_Bird/))  **
+12. The About page is styled incorrectly on devices running iOS 14.x. **
 
 #### NHL API-related (likely out of our control)
 1. Some games, typically older ones, may be missing goals, penalties, shots, or other stats.
