@@ -9,7 +9,7 @@ Below is a list of issues and bugs in Breakaway that we are currently aware of. 
 2. When visiting the page for a team that is inactive / no longer in the NHL (for example: Kansas City Scouts, Colorado Rockies, etc), the screen appears blank.
 3. When visiting the page for a team that is inactive and is related to an active team (Hartford Whalers, Atlanta Thrashers -> Carolina Hurricanes, Winnipeg Jets), the current team's stats and logos appear.
 4. The standings are currently only showing the 2020-21 season
-5. When viewing a team's preseason schedule, if there is a day that should have two games (a double-header), only the first game will be listed.
+5. When viewing a team's preseason schedule, if there is a day that should have two games (a double-header), only the first game will be listed. **
 6. The name of a team or player may be cut off in the Favorites section of the Discover tab.
 7. If you are using a different text size other than the default in iOS Settings -> Display -> Text Size, many parts of the app may appear broken or misaligned.
 8. Certain parts of the app may not appear correctly (i.e. misaligned, cut off, sized incorrectly, or just weird in general) on iPad.
