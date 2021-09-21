@@ -1,6 +1,6 @@
 # Known issues
 
-*Last updated: September 7, 2021*
+*Last updated: September 20, 2021*
 
 Below is a list of issues and bugs in Breakaway that we are currently aware of. This list isn't meant to be exhaustive, so if you think you're seeing an issue and you're not sure if it matches something on this list, report it anyway. 
 
@@ -13,6 +13,7 @@ Below is a list of issues and bugs in Breakaway that we are currently aware of. 
 6. If you are using a different text size other than the default in iOS Settings -> Display -> Text Size, many parts of the app may appear broken or misaligned.
 7. Certain parts of the app may not appear correctly (i.e. misaligned, cut off, sized incorrectly, or just weird in general) on iPad.
 8. A skater's time on ice stat may be formatted incorrectly in the stats table at Stats -> Skaters.
+9. All-Star Games display their scores properly in the Scores tab, but the team logos appear as NHL logos, and tapping the game leads to an error.
 
 #### NHL API-related (likely out of our control)
 1. Some games, typically older ones, may be missing goals, penalties, shots, or other stats.
