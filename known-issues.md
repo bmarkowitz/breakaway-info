@@ -1,6 +1,6 @@
 # Known issues
 
-*Last updated: October 4th, 2021*
+*Last updated: October 6th, 2021*
 
 Below is a list of issues and bugs in Breakaway that we are currently aware of. This list isn't meant to be exhaustive, so if you think you're seeing an issue and you're not sure if it matches something on this list, report it anyway. 
 
@@ -15,15 +15,11 @@ Below is a list of issues and bugs in Breakaway that we are currently aware of. 
 8. All-Star Games display their scores properly in the Scores tab, but the team logos appear as NHL logos, and tapping the game leads to an error.
 9. A game does not show if a team has an empty net. (You can view the game, but within the game itself, the fact that a team has an empty net will not be displayed.)
 10. A game preview may not display part or all of a team's name and/or record.
-11. Attempting to view a game preview may fail to load or crash the app. **
-12. Refreshing a live game may crash the app. **
-13. A game will not display the type of power play that a team has (for example, 5-on-4 or 5-on-3, etc), just "PP" and the time remaining on it.
-14. Player names may be cut off at the top of the player's profile. **
-15. Refreshing a live game may not provide updates in a timely manner or at all. **
+11. A game will not display the type of power play that a team has (for example, 5-on-4 or 5-on-3, etc), just "PP" and the time remaining on it.
 
 #### NHL API-related (likely out of our control)
 1. Some games, typically older ones, may be missing goals, penalties, shots, or other stats.
-2. Live games might briefly display or temporarily odd, incomplete, or incorrect information.
+2. Live games might briefly or temporarily display odd, incomplete, or incorrect information.
 
 ---
 
