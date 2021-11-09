@@ -1,6 +1,6 @@
 # Known issues
 
-*Last updated: October 12th, 2021*
+*Last updated: November 8th, 2021*
 
 Below is a list of issues and bugs in Breakaway that we are currently aware of. This list isn't meant to be exhaustive, so if you think you're seeing an issue and you're not sure if it matches something on this list, report it anyway. 
 
@@ -15,6 +15,10 @@ Below is a list of issues and bugs in Breakaway that we are currently aware of. 
 8. A game does not show if a team has an empty net. (You can view the game, but within the game itself, the fact that a team has an empty net will not be displayed.)
 9. A game preview may not display part or all of a team's name and/or record.
 10. A game will not display the type of power play that a team has (for example, 5-on-4 or 5-on-3, etc), just "PP" and the time remaining on it.
+11. If you have a favorite team set on the Home tab, favoriting another team elsewhere in the app will replace the one set in the Home tab. **
+12. The screen where you choose a new favorite team (3 dots menu on the Home tab -> Change Team) will not properly retain a newly selected team if you scroll past it in the list. **
+13. The Home tab won't reload if a favorite team is not set. **
+14. Plays inside a game (in the "All Plays" view), may appear overlapped.
 
 #### NHL API-related (likely out of our control)
 1. Some games, typically older ones, may be missing goals, penalties, shots, or other stats.
